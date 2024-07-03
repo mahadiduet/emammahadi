@@ -1,17 +1,62 @@
-# emammahadi
+# Welcome to My GitHub Profile!
 
-Web Developer, MSc in Computer Science from DUET, Bangladesh. Web developer with 2 years of web and enterprise application development experience. And I mostly used React, Node.js, Express JS, Magento1, Magento2. And I also used database SQL and MongoDB.
-I have strong knowledge of Problem Solving and Object-Oriented Programming (OOP).
-Currently working as a web developer at Zero Gravity Venture Limited. My responsibility is to create new features, fix bugs, and create API.
+Hi there! I'm MD. Emam Mahadi is a passionate web developer from Bangladesh. I have a BSc in Engineering in CSE from DUET, Bangladesh and I currently work at Zero Gravity Venture Limited.
 
-Problem Solving:
-https://onlinejudge.org/
-User: emam mahadi
+---
 
-https://codeforces.com/
-User: mahadiduet
+## 🚀 About Me
+- 🔭 I’m currently working at **Zero Gravity Venture Limited**
+- 🌱 I’m researching **Artificial Intelligence**
+- 👨‍💻 I have experience with **React, SQL, MongoDB, Tailwind, JavaScript, HTML, CSS, Magento 2, and Magento 1**
+- 🎓 I hold a BSc in Engineering in CSE from **DUET, Bangladesh**
+- 🏆 I have strong knowledge in **Object-Oriented Programming (OOP)** and **problem-solving**
 
-Research Interest:
-Artificial Intelligence,
-Machine Language,
-Automated Planning
+---
+
+## 🛠️ Skills
+
+### Languages & Tools
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Magento](https://img.shields.io/badge/-Magento-EE672F?style=flat-square&logo=magento&logoColor=white)
+
+### Other Skills
+
+- **Frontend Development**: React, JavaScript, HTML, CSS, TailwindCSS
+- **Backend Development**: SQL, MongoDB
+- **E-commerce Platforms**: Magento 1, Magento 2
+- **Programming**: Python, Java, C++
+- **Research**: Artificial Intelligence
+
+---
+
+## 📫 How to reach me:
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: your.email@example.com
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## ✨ Fun Fact
+
+I was creating programming content when I was a student!
+
+---
+
+Thank you for visiting my profile. Feel free to reach out if you want to collaborate on a project or just want to say hi! 😄
