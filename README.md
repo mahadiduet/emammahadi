@@ -38,7 +38,7 @@ Hi there! I'm MD. Emam Mahadi is a passionate web developer from Bangladesh. I h
 
 ## 📫 How to reach me:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mahadiduet/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mahadiduet/)
 - **Email**: mahadiduet@gmail.com
 
 ---
